@@ -1,0 +1,14 @@
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\bin\Debug\netcoreapp2.2\ToDoListDataService.deps.json
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\bin\Debug\netcoreapp2.2\ToDoListDataService.runtimeconfig.json
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\bin\Debug\netcoreapp2.2\ToDoListDataService.runtimeconfig.dev.json
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\bin\Debug\netcoreapp2.2\ToDoListDataService.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\bin\Debug\netcoreapp2.2\ToDoListDataService.pdb
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.csprojAssemblyReference.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.csproj.CoreCompileInputs.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.RazorAssemblyInfo.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.RazorAssemblyInfo.cs
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.AssemblyInfoInputs.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.AssemblyInfo.cs
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.RazorTargetAssemblyInfo.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataService\obj\Debug\netcoreapp2.2\ToDoListDataService.pdb

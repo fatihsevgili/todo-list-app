@@ -1,0 +1,72 @@
+<div class="col-12 col-lg-19 col-xl-5 main">
+  <div class="main-container">
+    <div class="header"><h1>TODO LIST <i class="fas fa-pen"></i></h1></div>
+    <div class="row inputDiv">
+      <div class="col-10">
+        <dx-text-box
+          [(value)]="textBoxValue"
+          [showClearButton]="true"
+          (onEnterKey)="onSubmit($event)"
+        >
+        </dx-text-box>
+      </div>
+      <div class="col-2">
+        <dx-button
+          stylingMode="contained"
+          text="Add"
+          type="default"
+          [width]="120"
+          (onClick)="onSubmit($event)">
+        </dx-button>
+      </div>
+    </div>
+    <div class="listDiv">
+      <dx-data-grid
+        id="gridContainer"
+        [dataSource]="dataSource"
+        key="id"
+        [keyExpr]="'id'"
+        [columns]="columns"
+        [focusedRowEnabled]="false"
+        [columnResizingMode]="'widget'"
+        [allowColumnResizing]="true"
+        [height]="550"
+        (onRowClick)="onRowClick($event)"
+        (onCellClick)="onCellClick($event)"
+        (onCellPrepared)="onCellPrepared($event)"
+        [showColumnLines]="true"
+        [showRowLines]="true"
+        [showBorders]="true"
+        [rowAlternationEnabled]="false"
+        [noDataText]="'No content'"
+      >
+        <div *dxTemplate="let data of 'checkBoxTemplate'">
+          <dx-check-box
+            [value]="data.value"
+            [readOnly]="true"
+          ></dx-check-box>
+        </div>
+        <div *dxTemplate="let data of 'actionMenuTemplate'">
+          <dx-button
+            icon="fas fa-trash-alt"
+            type="normal"
+            stylingMode="outlined"
+            (onClick)="onDeleteButtonClick($event)"
+          >
+          </dx-button>
+        </div>
+        <dxo-filter-row #filterRow [visible]="true">
+        </dxo-filter-row>
+        <dxo-load-panel [enabled]="true"></dxo-load-panel>
+        <dxo-paging [pageSize]="10"></dxo-paging>
+        <dxo-pager
+          [showPageSizeSelector]="true"
+          [allowedPageSizes]="[10, 25, 50]"
+          [showNavigationButtons]="true"
+          [showInfo]="true"
+        >
+        </dxo-pager>
+      </dx-data-grid>
+    </div>
+  </div>
+</div>

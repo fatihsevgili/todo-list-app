@@ -1,0 +1,17 @@
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataServiceTest.deps.json
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataServiceTest.runtimeconfig.json
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataServiceTest.runtimeconfig.dev.json
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataServiceTest.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataServiceTest.pdb
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataService.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\bin\Debug\netcoreapp2.2\ToDoListDataService.pdb
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.csprojAssemblyReference.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.AssemblyInfoInputs.cache
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.AssemblyInfo.cs
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.csproj.CopyComplete
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.dll
+C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListDataServiceTest\obj\Debug\netcoreapp2.2\ToDoListDataServiceTest.pdb
