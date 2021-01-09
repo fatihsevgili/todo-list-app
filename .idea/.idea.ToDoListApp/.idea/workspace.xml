@@ -5,22 +5,24 @@
     <projectFile>ToDoListDataService/ToDoListDataService.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50900ebe-99ce-42ba-b5a0-51bcf0859cef" name="Default Changelist" comment="#Commit workspace.xml">
+    <list default="true" id="50900ebe-99ce-42ba-b5a0-51bcf0859cef" name="Default Changelist" comment="#UI app file structure modified">
+      <change afterPath="$PROJECT_DIR$/ToDoListUI/build-docker-image.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/nav-menu/nav-menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/nav-menu/nav-menu.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/nav-menu/nav-menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/nav-menu/nav-menu.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/nav-menu/nav-menu.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/nav-menu/nav-menu.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/ToDoListUI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ToDoListUI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListDataService/Controllers/TodoItemController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListDataService/Controllers/TodoItemController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListDataService/Service/Impl/TodoListServicesImpl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListDataService/Service/Impl/TodoListServicesImpl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListDataService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListDataService/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListDataService/build-docker-image-local.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListDataService/build-docker-image.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListDataService/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListDataService/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/environments/environment.prod.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="Development" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -50,13 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ToDoListDataService/Helpers/AutoMapperProfiles.cs" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/enum/http-status-codes.enum.ts" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/supported-errors.type.ts" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/abstract/abstract-supported-errors.ts" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/concrete/factory/supported-errors-factory.ts" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/concrete/fluent-validation-errors.ts" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/concrete/general-errors.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/concrete/undefined-error.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-htpp-error-response.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/utils/abstract-base-factory.ts" />
@@ -77,15 +72,11 @@
         <option value="$PROJECT_DIR$/ToDoListDataServiceTest/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Data/Repository/BaseRepository/IBaseRepository.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Data/Repository/BaseRepository/Impl/BaseRepository.cs" />
-        <option value="$PROJECT_DIR$/ToDoListDataService/Service/Impl/TodoListServicesImpl.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataServiceTest/Service/TodoListServiceImplTests.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Data/Model/Context/DataContext.cs" />
-        <option value="$PROJECT_DIR$/ToDoListDataService/Controllers/TodoItemController.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataServiceTest/Repository/TodoItemRepositoryTests.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataServiceTest/Controller/TodoItemControllerTests.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataService/ValidationRules/build-docker-image-local.sh" />
-        <option value="$PROJECT_DIR$/ToDoListDataService/build-docker-image-local.sh" />
-        <option value="$PROJECT_DIR$/ToDoListDataService/Startup.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Dockerfile" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/enum/todo-list.enum.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/environments/environment.ts" />
@@ -93,14 +84,25 @@
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/service/todo-list.service.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/Dockerfile" />
-        <option value="$PROJECT_DIR$/ToDoListDataService/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/environments/environment.prod.ts" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/ToDoListDataService/appsettings.json" />
         <option value="$PROJECT_DIR$/ToDoListDataService/appsettings.Development.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/app.module.ts" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/build-docker-image-local.sh" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ToDoListUI/build-docker-image.sh" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/namespace.template.yaml" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/postgres-deploy.yaml" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/deploy.yaml" />
+        <option value="$PROJECT_DIR$/ToDoListUI/deploy.yml" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/Startup.cs" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/Service/Impl/TodoListServicesImpl.cs" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/Controllers/TodoItemController.cs" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/postgres-deploy.yml" />
+        <option value="$PROJECT_DIR$/ToDoListDataService/deploy.yml" />
+        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/environments/environment.prod.ts" />
       </list>
     </option>
   </component>
@@ -111,7 +113,6 @@
   <component name="ProjectId" id="1mVXr5RVcY4iLZ6PyXn794m9CLo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -121,6 +122,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\fatih.sevgili\Desktop\Deneme\ToDoListApp\ToDoListUI\ClientApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -204,7 +206,8 @@
       <workItem from="1610030200099" duration="2000000" />
       <workItem from="1610032239982" duration="5000000" />
       <workItem from="1610045973527" duration="17709000" />
-      <workItem from="1610187184061" duration="4850000" />
+      <workItem from="1610187184061" duration="19547000" />
+      <workItem from="1610211179679" duration="1829000" />
     </task>
     <task id="LOCAL-00001" summary="#Commit project files">
       <created>1610187686944</created>
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610191860589</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="#UI app file structure modified">
+      <created>1610192831122</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610192831122</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +273,8 @@
     <MESSAGE value="#Commit .gitignore" />
     <MESSAGE value="#Commit new .gitignore files" />
     <MESSAGE value="#Commit workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="#Commit workspace.xml" />
+    <MESSAGE value="#UI app file structure modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="#UI app file structure modified" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609668976667">
@@ -282,10 +293,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610190378667" />
-    <state width="245" height="533" key="Git.Branch.Popup" timestamp="1610192064265">
+    <state width="249" height="537" key="Git.Branch.Popup" timestamp="1610192894088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="245" height="533" key="Git.Branch.Popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610192064265" />
+    <state width="249" height="537" key="Git.Branch.Popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610192894088" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610104571578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -382,10 +393,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610191730521" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610191869971">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610192895296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610191869971" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610192895296" />
     <state x="842" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609670354324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -398,10 +409,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610188577520" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1609697647634">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1610205944181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609697647634" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610205944181" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

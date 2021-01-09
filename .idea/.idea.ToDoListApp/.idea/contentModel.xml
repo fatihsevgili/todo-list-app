@@ -16,7 +16,7 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="build-docker-image-local.sh" t="Include" />
+        <e p="build-docker-image.sh" t="Include" />
         <e p="Controllers" t="Include">
           <e p="TodoItemController.cs" t="Include" />
         </e>
@@ -45,6 +45,7 @@
             </e>
           </e>
         </e>
+        <e p="deploy.yml" t="Include" />
         <e p="docker-compose.yml" t="Include" />
         <e p="Dockerfile" t="Include" />
         <e p="Dto" t="Include">
@@ -63,6 +64,7 @@
           <e p="20210103112453_CreateModels.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
+        <e p="namespace.template.yml" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
@@ -71,6 +73,7 @@
             </e>
           </e>
         </e>
+        <e p="postgres-deploy.yml" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />
@@ -121,6 +124,7 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="build-docker-image.sh" t="Include" />
         <e p="ClientApp" t="Include">
           <e p=".editorconfig" t="Include" />
           <e p=".gitignore" t="Include" />
@@ -330,6 +334,7 @@
         <e p="Controllers" t="Include">
           <e p="SampleDataController.cs" t="Include" />
         </e>
+        <e p="deploy.yml" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
