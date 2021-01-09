@@ -5,9 +5,9 @@
     <projectFile>ToDoListDataService/ToDoListDataService.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50900ebe-99ce-42ba-b5a0-51bcf0859cef" name="Default Changelist" comment="">
+    <list default="true" id="50900ebe-99ce-42ba-b5a0-51bcf0859cef" name="Default Changelist" comment="#Commit .gitignore">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListUI/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ToDoListDataService/ValidationRules/FluentValidation/TodoItemDtoValidation.cs" />
         <option value="$PROJECT_DIR$/ToDoListDataService/ValidationRules/FluentValidation/TodoItemDtoValidator.cs" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/Utils/sweet-alert-icon.enum.ts" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Helpers/AutoMapperProfiles.cs" />
@@ -92,6 +91,7 @@
         <option value="$PROJECT_DIR$/ToDoListDataService/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/ToDoListDataService/appsettings.json" />
         <option value="$PROJECT_DIR$/ToDoListDataService/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -194,7 +194,7 @@
       <workItem from="1610030200099" duration="2000000" />
       <workItem from="1610032239982" duration="5000000" />
       <workItem from="1610045973527" duration="17709000" />
-      <workItem from="1610187184061" duration="1397000" />
+      <workItem from="1610187184061" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="#Commit project files">
       <created>1610187686944</created>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610187796538</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="#Commit .gitignore">
+      <created>1610190342061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610190342061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +229,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="#Commit project files" />
     <MESSAGE value="#Commit workspace.xml for new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="#Commit workspace.xml for new branch" />
+    <MESSAGE value="#Commit .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Commit .gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609668976667">
@@ -237,6 +245,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="779" height="464" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610046888727" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1610190378667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610190378667" />
+    <state width="237" height="525" key="Git.Branch.Popup" timestamp="1610190830896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="237" height="525" key="Git.Branch.Popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610190830896" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610104571578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -329,14 +345,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="221" key="RiderGenerateDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609873642495" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610188184004">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610190849527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610188184004" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610190849527" />
     <state x="842" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609670354324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="842" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609670354324" />
+    <state x="202" y="124" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1610190821299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="202" y="124" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610190821299" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610188577520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
