@@ -1,9 +1,11 @@
 import {Component} from "@angular/core";
 import DataSource from "devextreme/data/data_source";
-import {TodoListService} from "../service/todo-list.service";
-import {TodoListModel} from "../model/todo-list.model";
-import {AlertService} from "../../utils/alert.service";
-import {SweetAlertIconEnum} from "../../utils/sweet-alert-icon.enum";
+import {TodoListService} from "../../service/todo-list.service";
+import {AlertService} from "../../../utils/alert.service";
+import {TodoListModel} from "../../model/todo-list.model";
+import {SweetAlertIconEnum} from "../../../utils/sweet-alert-icon.enum";
+
+
 
 @Component({
   selector: 'todo-list',

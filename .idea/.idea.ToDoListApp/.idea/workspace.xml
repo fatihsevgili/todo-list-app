@@ -5,7 +5,18 @@
     <projectFile>ToDoListDataService/ToDoListDataService.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50900ebe-99ce-42ba-b5a0-51bcf0859cef" name="Default Changelist" comment="#Commit new .gitignore files" />
+    <list default="true" id="50900ebe-99ce-42ba-b5a0-51bcf0859cef" name="Default Changelist" comment="#Commit workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDoListApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/nav-menu/nav-menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/nav-menu/nav-menu.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/nav-menu/nav-menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/nav-menu/nav-menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/nav-menu/nav-menu.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/nav-menu/nav-menu.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/todo-list/todo-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoListUI/ToDoListUI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListUI/ToDoListUI.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +33,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E407D4BA-C36C-45DA-982B-FD389A659F31/0/IMapper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/fa/73438111/TheoryAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDoListUI/ClientApp/package-lock.json" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F58F0715-195C-43D2-AE82-0C604FB53FE1/3A/OkObjectResult.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/1E/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/d9/b0109e6d/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -38,8 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ToDoListDataService/ValidationRules/FluentValidation/TodoItemDtoValidator.cs" />
-        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/Utils/sweet-alert-icon.enum.ts" />
         <option value="$PROJECT_DIR$/ToDoListDataService/Helpers/AutoMapperProfiles.cs" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/enum/http-status-codes.enum.ts" />
         <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/helpers/supported-http-error-response/supported-errors/supported-errors.type.ts" />
@@ -89,6 +99,8 @@
         <option value="$PROJECT_DIR$/ToDoListDataService/appsettings.json" />
         <option value="$PROJECT_DIR$/ToDoListDataService/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/component/todo-list/todo-list.component.ts" />
+        <option value="$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/app.module.ts" />
       </list>
     </option>
   </component>
@@ -192,7 +204,7 @@
       <workItem from="1610030200099" duration="2000000" />
       <workItem from="1610032239982" duration="5000000" />
       <workItem from="1610045973527" duration="17709000" />
-      <workItem from="1610187184061" duration="3918000" />
+      <workItem from="1610187184061" duration="4850000" />
     </task>
     <task id="LOCAL-00001" summary="#Commit project files">
       <created>1610187686944</created>
@@ -229,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610191795737</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="#Commit workspace.xml">
+      <created>1610191860589</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610191860589</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +262,8 @@
     <MESSAGE value="#Commit workspace.xml for new branch" />
     <MESSAGE value="#Commit .gitignore" />
     <MESSAGE value="#Commit new .gitignore files" />
-    <option name="LAST_COMMIT_MESSAGE" value="#Commit new .gitignore files" />
+    <MESSAGE value="#Commit workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Commit workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609668976667">
@@ -262,10 +282,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610190378667" />
-    <state width="241" height="529" key="Git.Branch.Popup" timestamp="1610191799977">
+    <state width="245" height="533" key="Git.Branch.Popup" timestamp="1610192064265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="241" height="529" key="Git.Branch.Popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610191799977" />
+    <state width="245" height="533" key="Git.Branch.Popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610192064265" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1610104571578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -362,10 +382,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610191730521" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610191804992">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610191869971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610191804992" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610191869971" />
     <state x="842" y="407" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609670354324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -384,15 +404,6 @@
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609697647634" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/ToDoListUI/ClientApp/src/app/views/service/todo-list.service.ts</url>
-          <line>52</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="Type#ToDoListDataService.Service.Impl.TodoListServicesImpl" memberName="_mapper" />

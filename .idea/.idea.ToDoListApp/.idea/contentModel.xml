@@ -281,25 +281,27 @@
                 <e p="app.component.html" t="Include" />
                 <e p="app.component.ts" t="Include" />
                 <e p="app.module.ts" t="Include" />
+                <e p="component" t="Include">
+                  <e p="nav-menu" t="Include">
+                    <e p="nav-menu.component.css" t="Include" />
+                    <e p="nav-menu.component.html" t="Include" />
+                    <e p="nav-menu.component.ts" t="Include" />
+                  </e>
+                  <e p="todo-list" t="Include">
+                    <e p="todo-list.component.css" t="Include" />
+                    <e p="todo-list.component.html" t="Include" />
+                    <e p="todo-list.component.ts" t="Include" />
+                  </e>
+                </e>
                 <e p="enum" t="Include">
                   <e p="todo-list.enum.ts" t="Include" />
                 </e>
                 <e p="model" t="Include">
                   <e p="todo-list.model.ts" t="Include" />
                 </e>
-                <e p="nav-menu" t="Include">
-                  <e p="nav-menu.component.css" t="Include" />
-                  <e p="nav-menu.component.html" t="Include" />
-                  <e p="nav-menu.component.ts" t="Include" />
-                </e>
                 <e p="service" t="Include">
                   <e p="todo-list.service.spec.ts" t="Include" />
                   <e p="todo-list.service.ts" t="Include" />
-                </e>
-                <e p="todo-list" t="Include">
-                  <e p="todo-list.component.css" t="Include" />
-                  <e p="todo-list.component.html" t="Include" />
-                  <e p="todo-list.component.ts" t="Include" />
                 </e>
               </e>
             </e>

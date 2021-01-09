@@ -5,8 +5,10 @@ import { HttpClientModule } from "@angular/common/http";
 import { RouterModule } from "@angular/router";
 import { AppComponent } from './app.component';
 import {DxButtonModule, DxCheckBoxModule, DxDataGridModule, DxTextBoxModule} from "devextreme-angular";
-import {NavMenuComponent} from "./nav-menu/nav-menu.component";
-import {TodoListComponent} from "./todo-list/todo-list.component";
+import {NavMenuComponent} from "./component/nav-menu/nav-menu.component";
+import {TodoListComponent} from "./component/todo-list/todo-list.component";
+
+
 
 @NgModule({
   declarations: [
