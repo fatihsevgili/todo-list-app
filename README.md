@@ -1,8 +1,8 @@
 # todo-list-app
 
-- Back-End tarafı **.net core**  
-- Front-End tarafı **Angular**  
-- Back-End için **Unit test** projesi içermektedir
-- **Dockerfile** ve **docker-compose.yml** dosyaları hazırlanmıştır
-- **Docker Hub** a image gönderebilmek için scriptler hazırlanmıştır.
-- **Kubernetes** ortamında container oluşturabilmek, orkestrasyon ve service konfigurasyonu için **kubernetes deploy yaml** dosyaları hazırlanmıştır. 
+- Back-End => **.net core**  
+- Front-End => **Angular**  
+- Included **Unit test**
+- **Dockerfile** and **docker-compose.yml** have been created.
+- Script files have been created to send images to **Docker Hub** 
+- To Creating, orchestration and service configuration of containers in **Kubernetes** environment **kubernetes deploy yaml** file have been created
